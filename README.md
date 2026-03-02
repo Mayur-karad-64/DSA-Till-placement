@@ -20,6 +20,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0069-sqrtx/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
