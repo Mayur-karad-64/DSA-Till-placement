@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0027-remove-element/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0027-remove-element/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
