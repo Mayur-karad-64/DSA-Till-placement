@@ -41,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0020-valid-parentheses/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
