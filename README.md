@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
