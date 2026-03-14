@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0136-single-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -20,6 +21,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
