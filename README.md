@@ -12,6 +12,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Hash Table
@@ -27,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Math
 | Problem Name | Difficulty |
