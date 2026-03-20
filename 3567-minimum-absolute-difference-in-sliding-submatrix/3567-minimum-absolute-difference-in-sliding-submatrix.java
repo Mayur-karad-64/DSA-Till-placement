@@ -12,20 +12,20 @@ class Solution {
 
                 Set<Integer> set = new HashSet<>();
 
-                // Collect unique elements
+             
                 for (int x = i; x < i + k; x++) {
                     for (int y = j; y < j + k; y++) {
                         set.add(grid[x][y]);
                     }
                 }
 
-                // If only one unique element → answer = 0
+                
                 if (set.size() <= 1) {
                     ans[i][j] = 0;
                     continue;
                 }
 
-                // Convert to list & sort
+              
                 List<Integer> list = new ArrayList<>(set);
                 Collections.sort(list);
 
