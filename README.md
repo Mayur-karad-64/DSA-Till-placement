@@ -15,6 +15,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
