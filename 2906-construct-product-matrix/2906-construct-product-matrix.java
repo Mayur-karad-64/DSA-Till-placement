@@ -6,7 +6,7 @@ class Solution {
         
         int size = n * m;
         
-        // Step 1: Flatten grid
+
         int[] arr = new int[size];
         int idx = 0;
         for (int i = 0; i < n; i++) {
@@ -15,14 +15,14 @@ class Solution {
             }
         }
         
-        // Step 2: Prefix product
+ 
         int[] prefix = new int[size];
         prefix[0] = 1;
         for (int i = 1; i < size; i++) {
             prefix[i] = (int)((long)prefix[i - 1] * arr[i - 1] % MOD);
         }
         
-        // Step 3: Suffix product
+      
         int[] suffix = new int[size];
         suffix[size - 1] = 1;
         for (int i = size - 2; i >= 0; i--) {
