@@ -40,6 +40,7 @@
 | [0007-reverse-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0069-sqrtx/) | Easy |
+| [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -143,4 +144,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
