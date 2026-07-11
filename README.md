@@ -40,6 +40,7 @@
 | [0007-reverse-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Dynamic Programming
@@ -96,6 +97,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0190-reverse-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,5 +149,6 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
