@@ -71,6 +71,7 @@
 | [0020-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0058-length-of-last-word/) | Easy |
+| [0071-simplify-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0071-simplify-path/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0071-simplify-path/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
