@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0071-simplify-path/) | Medium |
+| [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -126,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0015-3sum/) | Medium |
+| [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Heap (Priority Queue)
