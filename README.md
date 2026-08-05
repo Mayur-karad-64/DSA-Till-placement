@@ -115,6 +115,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -170,4 +171,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3310-remove-methods-from-project/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
