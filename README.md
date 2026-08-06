@@ -46,6 +46,7 @@
 | [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -179,4 +180,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3310-remove-methods-from-project/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
