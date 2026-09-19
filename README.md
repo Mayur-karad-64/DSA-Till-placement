@@ -184,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
