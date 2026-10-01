@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -29,6 +30,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -125,6 +127,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0190-reverse-bits](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0190-reverse-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
