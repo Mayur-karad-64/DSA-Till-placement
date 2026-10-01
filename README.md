@@ -44,6 +44,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0013-roman-to-integer/) | Easy |
@@ -179,6 +180,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
 ## Queue
@@ -217,4 +219,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0020-valid-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
