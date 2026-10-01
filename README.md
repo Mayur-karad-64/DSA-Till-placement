@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0029-divide-two-integers/) | Medium |
 | [0069-sqrtx](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
@@ -75,6 +77,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0013-roman-to-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0058-length-of-last-word/) | Easy |
