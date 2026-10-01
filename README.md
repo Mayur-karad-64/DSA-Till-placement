@@ -48,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0043-multiply-strings/) | Medium |
 | [0069-sqrtx](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
@@ -82,6 +83,7 @@
 | [0013-roman-to-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0071-simplify-path/) | Medium |
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
@@ -207,4 +209,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
