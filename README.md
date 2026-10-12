@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
 | [0136-single-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -30,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
@@ -111,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2906-construct-product-matrix/) | Medium |
@@ -226,4 +229,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0002-add-two-numbers/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
