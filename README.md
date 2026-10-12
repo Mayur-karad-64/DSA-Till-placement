@@ -57,6 +57,7 @@
 | [0029-divide-two-integers](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0043-multiply-strings/) | Medium |
 | [0069-sqrtx](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0069-sqrtx/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -244,4 +246,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
