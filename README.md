@@ -35,6 +35,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0457-circular-array-loop](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0457-circular-array-loop/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0561-array-partition](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0561-array-partition/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
@@ -112,6 +113,7 @@
 | [0135-candy](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0135-candy/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0561-array-partition](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0561-array-partition/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Prefix Sum
@@ -220,6 +222,7 @@
 | [0047-permutations-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0047-permutations-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0561-array-partition](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Heap (Priority Queue)
@@ -242,6 +245,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0561-array-partition](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
