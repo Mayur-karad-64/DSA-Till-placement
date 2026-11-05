@@ -266,6 +266,7 @@
 | [0100-same-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0112-path-sum/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Enumeration
@@ -318,6 +319,7 @@
 | [0100-same-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0112-path-sum/) | Easy |
 ## Binary Search Tree
@@ -333,6 +335,7 @@
 | [0100-same-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0112-path-sum/) | Easy |
 ## Monotonic Stack
