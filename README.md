@@ -37,6 +37,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0561-array-partition](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0561-array-partition/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0624-maximum-distance-in-arrays/) | Medium |
+| [0641-design-circular-deque](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0641-design-circular-deque/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
@@ -266,6 +267,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0641-design-circular-deque](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0641-design-circular-deque/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +319,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0641-design-circular-deque](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0641-design-circular-deque/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,4 +374,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0457-circular-array-loop](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0457-circular-array-loop/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0641-design-circular-deque](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0641-design-circular-deque/) | Medium |
 <!---LeetCode Topics End-->
