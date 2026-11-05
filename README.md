@@ -17,6 +17,7 @@
 | [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0045-jump-game-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0120-triangle](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0120-triangle/) | Medium |
 | [0135-candy](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0135-candy/) | Hard |
@@ -79,6 +80,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0045-jump-game-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0198-house-robber/) | Medium |
@@ -90,6 +92,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0045-jump-game-ii/) | Medium |
 | [0135-candy](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
