@@ -256,6 +256,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0112-path-sum/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -263,6 +264,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0112-path-sum/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Enumeration
@@ -313,6 +315,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0112-path-sum/) | Easy |
 ## Binary Search Tree
@@ -326,6 +329,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0112-path-sum/) | Easy |
 ## Monotonic Stack
