@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0018-4sum/) | Medium |
@@ -79,6 +80,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -114,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0018-4sum/) | Medium |
