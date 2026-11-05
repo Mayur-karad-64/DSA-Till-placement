@@ -42,6 +42,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -89,6 +90,7 @@
 | [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
@@ -186,6 +188,7 @@
 | [0054-spiral-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2906-construct-product-matrix/) | Medium |
@@ -384,4 +387,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0641-design-circular-deque](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0641-design-circular-deque/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 <!---LeetCode Topics End-->
