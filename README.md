@@ -18,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0045-jump-game-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0047-permutations-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0120-triangle](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0120-triangle/) | Medium |
 | [0135-candy](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0135-candy/) | Hard |
@@ -188,6 +189,7 @@
 | [0015-3sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0047-permutations-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -276,6 +278,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
+| [0047-permutations-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0047-permutations-ii/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
