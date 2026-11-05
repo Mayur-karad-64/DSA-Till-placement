@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
@@ -124,6 +125,7 @@
 | [0018-4sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0031-next-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
