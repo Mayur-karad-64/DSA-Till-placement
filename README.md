@@ -24,6 +24,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0120-triangle](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0120-triangle/) | Medium |
 | [0135-candy](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0136-single-number/) | Easy |
@@ -138,6 +139,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,4 +326,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
