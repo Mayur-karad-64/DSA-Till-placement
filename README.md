@@ -71,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0022-generate-parentheses/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0198-house-robber/) | Medium |
@@ -99,6 +100,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0058-length-of-last-word/) | Easy |
@@ -244,6 +246,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0022-generate-parentheses/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +255,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
