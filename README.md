@@ -135,6 +135,7 @@
 | [0097-interleaving-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0097-interleaving-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0388-longest-absolute-file-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Stack
@@ -145,6 +146,7 @@
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0388-longest-absolute-file-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0388-longest-absolute-file-path/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +264,7 @@
 | [0101-symmetric-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0112-path-sum/) | Easy |
+| [0388-longest-absolute-file-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
