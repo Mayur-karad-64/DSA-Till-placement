@@ -34,6 +34,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0457-circular-array-loop](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0457-circular-array-loop/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
@@ -55,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0457-circular-array-loop](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0457-circular-array-loop/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0388-longest-absolute-file-path/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Stack
@@ -163,6 +166,7 @@
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0457-circular-array-loop](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0457-circular-array-loop/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +219,7 @@
 | [0018-4sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0047-permutations-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Heap (Priority Queue)
