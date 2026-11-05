@@ -16,6 +16,7 @@
 | [0036-valid-sudoku](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0120-triangle](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0120-triangle/) | Medium |
 | [0135-candy](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0135-candy/) | Hard |
@@ -76,6 +77,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0198-house-robber/) | Medium |
@@ -119,6 +121,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0071-simplify-path/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -131,6 +134,7 @@
 | [0027-remove-element](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,4 +296,8 @@
 | [0098-validate-binary-search-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0112-path-sum/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
