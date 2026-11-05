@@ -23,6 +23,7 @@
 | [0054-spiral-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0120-triangle](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0120-triangle/) | Medium |
 | [0135-candy](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0136-single-number/) | Easy |
@@ -149,6 +150,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
