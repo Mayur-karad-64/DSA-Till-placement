@@ -39,6 +39,7 @@
 | [0561-array-partition](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0561-array-partition/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0641-design-circular-deque](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0641-design-circular-deque/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
@@ -259,6 +260,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0076-minimum-window-substring/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
