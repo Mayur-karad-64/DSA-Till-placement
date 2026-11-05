@@ -142,6 +142,7 @@
 | [0071-simplify-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0076-minimum-window-substring/) | Hard |
 | [0097-interleaving-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0097-interleaving-string/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0388-longest-absolute-file-path/) | Medium |
@@ -170,6 +171,7 @@
 | [0031-next-permutation](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0457-circular-array-loop](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0457-circular-array-loop/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 ## Matrix
