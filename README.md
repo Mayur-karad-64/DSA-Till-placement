@@ -36,6 +36,7 @@
 | [0457-circular-array-loop](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0457-circular-array-loop/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0561-array-partition](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0561-array-partition/) | Easy |
+| [0624-maximum-distance-in-arrays](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0912-sort-an-array/) | Medium |
@@ -114,6 +115,7 @@
 | [0376-wiggle-subsequence](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0561-array-partition/) | Easy |
+| [0624-maximum-distance-in-arrays](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Prefix Sum
