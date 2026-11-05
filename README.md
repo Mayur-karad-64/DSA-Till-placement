@@ -78,6 +78,7 @@
 | [0022-generate-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0044-wildcard-matching/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0198-house-robber/) | Medium |
@@ -88,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0044-wildcard-matching/) | Hard |
 | [0135-candy](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -110,6 +112,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0071-simplify-path/) | Medium |
 | [0242-valid-anagram](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0242-valid-anagram/) | Easy |
@@ -215,6 +218,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0044-wildcard-matching](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0044-wildcard-matching/) | Hard |
 | [0231-power-of-two](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mayur-karad-64/DSA-Till-placement/tree/main/0326-power-of-three/) | Easy |
 ## Queue
